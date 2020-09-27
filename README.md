@@ -1,2 +1,2 @@
 # testing
-A repository for testing purposes
+A repository for testing purposes and other fun stuff
